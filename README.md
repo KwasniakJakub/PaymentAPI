@@ -24,7 +24,7 @@ Projekt PaymentAPI to aplikacja do dodawania, edytowania oraz usuwania informacj
 -Views: Dodatkowe widoki, jeśli są używane.
 -Services: Usługi lub narzędzia backendowe.
 
-##Endpointy API
+## Endpointy API
 
 -Pobierz Wszystkie Szczegóły Płatności: GET /api/PaymentDetail
 
