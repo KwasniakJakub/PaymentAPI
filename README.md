@@ -8,12 +8,12 @@ Projekt PaymentAPI to aplikacja do dodawania, edytowania oraz usuwania informacj
 
 ## Technologie
 
--ASP.NET Core API
--Entity Framework Core
--C#
--Angular
--TypeScript
--HTML/CSS
+- ASP.NET Core API
+- Entity Framework
+- C#
+- Angular
+- HTML/CSS
+- TypeScript
 
 ## Struktura Projektu
 
