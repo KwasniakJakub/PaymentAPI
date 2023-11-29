@@ -18,21 +18,19 @@ Projekt PaymentAPI to aplikacja do dodawania, edytowania oraz usuwania informacj
 
 ## Struktura Projektu
 
--Controllers: Zawiera kontrolery API, takie jak PaymentDetailController.cs.
--Models: Definiuje modele danych, np. PaymentDetail.cs.
--ClientApp: Aplikacja Angulara znajduje się w katalogu Payment App.
--Views: Dodatkowe widoki, jeśli są używane.
--Services: Usługi lub narzędzia backendowe.
+- Controllers: Zawiera kontrolery API, takie jak PaymentDetailController.cs.
+- Models: Definiuje modele danych, np. PaymentDetail.cs.
+- ClientApp: Aplikacja Angulara znajduje się w katalogu Payment App.
+- Views: Dodatkowe widoki, jeśli są używane.
+- Services: Usługi lub narzędzia backendowe.
 
 ## Endpointy API
 
--Pobierz Wszystkie Szczegóły Płatności: GET /api/PaymentDetail
-
--Pobierz Szczegóły Płatności po ID: GET /api/PaymentDetail/{id}
-
--Aktualizuj Szczegóły Płatności: PUT /api/PaymentDetail/{id}
--Dodaj Szczegóły Płatności: POST /api/PaymentDetail
--Usuń Szczegóły Płatności: DELETE /api/PaymentDetail/{id}
+- Pobierz Wszystkie Szczegóły Płatności: GET /api/PaymentDetail
+- Pobierz Szczegóły Płatności po ID: GET /api/PaymentDetail/{id}
+- Aktualizuj Szczegóły Płatności: PUT /api/PaymentDetail/{id}
+- Dodaj Szczegóły Płatności: POST /api/PaymentDetail
+- Usuń Szczegóły Płatności: DELETE /api/PaymentDetail/{id}
 
 ## Uruchamianie
 
