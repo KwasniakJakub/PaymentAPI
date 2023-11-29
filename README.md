@@ -29,6 +29,7 @@ Projekt PaymentAPI to aplikacja do dodawania, edytowania oraz usuwania informacj
 -Pobierz Wszystkie Szczegóły Płatności: GET /api/PaymentDetail
 
 -Pobierz Szczegóły Płatności po ID: GET /api/PaymentDetail/{id}
+
 -Aktualizuj Szczegóły Płatności: PUT /api/PaymentDetail/{id}
 -Dodaj Szczegóły Płatności: POST /api/PaymentDetail
 -Usuń Szczegóły Płatności: DELETE /api/PaymentDetail/{id}
